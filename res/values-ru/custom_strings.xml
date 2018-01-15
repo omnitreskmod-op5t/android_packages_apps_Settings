@@ -67,4 +67,7 @@
     <string name="screenshot_shutter_sound_title">Звук скриншота</string>
     <!-- Sound: Title for the option defining the phone ringtone for slot1 on Muilti SIM device. [CHAR LIMIT=50] -->
     <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
+
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Объединить громкость звонка и сообщений</string>
 </resources>
