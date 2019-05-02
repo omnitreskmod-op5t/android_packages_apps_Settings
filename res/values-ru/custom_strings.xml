@@ -88,4 +88,8 @@
     <!-- Ambient music ticker pulse -->
     <string name="pulse_on_new_tracks_title">Музыкальный тикер</string>
     <string name="pulse_on_new_tracks_summary">Показать Ambient Display при воспроизведении нового музыкального трека</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Скриншот свайпом</string>
+    <string name="swipe_to_screenshot_gesture_summary">Проведите тремя пальцами, чтобы сделать скриншот</string>
 </resources>
