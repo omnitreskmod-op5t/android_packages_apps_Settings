@@ -84,4 +84,8 @@
     <string name="back_height_high_label">Низ</string>
     <string name="back_options_dialog_title">Настройки</string>
     <string name="back_height_message">Высота экрана, используемая в качестве сенсорной области для жеста назад.</string>
+
+    <!-- Ambient music ticker pulse -->
+    <string name="pulse_on_new_tracks_title">Музыкальный тикер</string>
+    <string name="pulse_on_new_tracks_summary">Показать Ambient Display при воспроизведении нового музыкального трека</string>
 </resources>
