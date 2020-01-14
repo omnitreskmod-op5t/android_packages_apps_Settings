@@ -76,7 +76,7 @@
     <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
 
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Объединить громкость звонка и сообщений</string>
+    <string name="volume_link_notification_title">Объединить громкость звонка и уведомлений</string>
 
     <string name="ringtone2_title">Звук звонка - SIM 2</string>
     <string name="weather_title">Погода</string>
@@ -88,4 +88,13 @@
     <!-- Ambient music ticker pulse -->
     <string name="pulse_on_new_tracks_title">Музыкальный тикер</string>
     <string name="pulse_on_new_tracks_summary">Показать Ambient Display при воспроизведении нового музыкального трека</string>
+
+    <!-- Control Vibration intensities -->
+    <string name="vibration_intensity_ringer">Интенсивность вибрации при звонке</string>
+    <string name="vibration_intensity_notification">Интенсивность вибрации уведомлений</string>
+    <string name="vibration_intensity_disabled">Отключена</string>
+    <string name="vibration_intensity_light">Легкая</string>
+    <string name="vibration_intensity_medium">Средняя</string>
+    <string name="vibration_intensity_strong">Сильная</string>
+    <string name="vibration_intensity_custom">Пользовательская</string>
 </resources>
