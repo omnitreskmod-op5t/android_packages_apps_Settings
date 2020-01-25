@@ -331,5 +331,7 @@ public class SettingsGateway {
             // Home page > OmniGears
             Settings.ButtonSettingsActivity.class.getName(),
             Settings.MoreSettingsActivity.class.getName(),
+            Settings.DozeSettingsActivity.class.getName(),
+            Settings.LockscreenSettingsActivity.class.getName(),
     };
 }
