@@ -105,4 +105,26 @@
     <string name="auto_brightness_description_new">Яркость экрана будет автоматически регулироваться в вашей среде и активности.\n\nВы можете настроить минимальный уровень яркости, который будет использоваться.</string>
     <!-- Full screen gestures -->
     <string name="navbar_gesture_pill_toggle_title">Скрыть плашку панели навигации</string>
+
+    <!-- In-call feedback -->
+    <string name="incall_feeedback_vibrate_title">Тактильная отдача при звонках</string>
+    <string name="incall_feeedback_summary">Вибрировать, чтобы указать статус вызова</string>
+
+    <!-- Custom Vibration fragment -->
+    <string name="vibration_preferences">Отклики и вибрации</string>
+    <string name="summary_vibration_preferences">Изменение интенсивности, паттерна и другое</string>
+    <string name="keywords_vibration_preferences">паттерн вибрации, интенсивность вибрации, звонки, отдача, нажать, сила вибрации</string>
+    <string name="ringtone_vibration_pattern">Паттерн вибрации рингтона</string>
+    <string name="vibration_intensity_ringer">Интенсивность вибрации рингтона</string>
+    <string name="vibration_intensity_notification">Интенсивность вибрации уведомления</string>
+    <string name="vibration_intensity_disabled">Отключено</string>
+    <string name="vibration_intensity_light">Легкая</string>
+    <string name="vibration_intensity_medium">Средняя</string>
+    <string name="vibration_intensity_strong">Сильная</string>
+    <string name="vibration_intensity_custom">Пользовательская</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
 </resources>
