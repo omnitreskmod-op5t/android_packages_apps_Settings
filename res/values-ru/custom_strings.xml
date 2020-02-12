@@ -76,7 +76,7 @@
     <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
 
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Объединить громкость звонка и сообщений</string>
+    <string name="volume_link_notification_title">Объединить громкость звонка и уведомлений</string>
 
     <string name="ringtone2_title">Звук звонка - SIM 2</string>
     <string name="weather_title">Погода</string>
