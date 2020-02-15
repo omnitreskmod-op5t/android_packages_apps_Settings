@@ -120,4 +120,7 @@
 
     <string name="auto_brightness_min_title">Minimal brightness level</string>
     <string name="auto_brightness_description_new">Your screen brightness will automatically adjust to your environment and activities.\n\nYou can adjust a minimal brightness level that will be used.</string>
+ 
+    <!-- Full screen gestures -->
+    <string name="navbar_gesture_pill_toggle_title">Hide the navigation bar pill</string>
 </resources>

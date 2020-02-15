@@ -103,4 +103,6 @@
     <string name="night_display_location_text">\n\nРасписание от заката до восхода солнца требует включенные службы определения местоположения, чтобы получить правильное время для вашего местоположения.</string>
     <string name="auto_brightness_min_title">Минимальный уровень яркости</string>
     <string name="auto_brightness_description_new">Яркость экрана будет автоматически регулироваться в вашей среде и активности.\n\nВы можете настроить минимальный уровень яркости, который будет использоваться.</string>
+    <!-- Full screen gestures -->
+    <string name="navbar_gesture_pill_toggle_title">Скрыть плашку панели навигации</string>
 </resources>
