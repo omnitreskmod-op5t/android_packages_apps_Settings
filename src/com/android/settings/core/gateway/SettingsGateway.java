@@ -149,6 +149,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 
 import org.omnirom.omnigears.OmniDashboardFragment;
 import org.omnirom.omnigears.ButtonSettings;
+import org.omnirom.omnigears.ButtonBrightnessSettings;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 
 public class SettingsGateway {
@@ -290,6 +291,7 @@ public class SettingsGateway {
             OmniDashboardFragment.class.getName(),
             ButtonSettings.class.getName(),
             MoreSettings.class.getName(),
+            ButtonBrightnessSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -333,5 +335,6 @@ public class SettingsGateway {
             Settings.MoreSettingsActivity.class.getName(),
             Settings.DozeSettingsActivity.class.getName(),
             Settings.LockscreenSettingsActivity.class.getName(),
+            Settings.ButtonBrightnessSettingsActivity.class.getName(),
     };
 }
